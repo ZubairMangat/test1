@@ -29,6 +29,8 @@ public:
 int example::sum = 0;
 int main()
 {
+	cout<<"Fraz Rasool";
+	cout<"Zubair Khalil";
    example e1;
    example::exforsys();
    example e2, e3, e4;
